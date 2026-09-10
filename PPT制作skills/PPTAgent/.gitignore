@@ -1,0 +1,42 @@
+__pycache__
+tmp
+build
+workspace
+*ipynb
+.vscode
+oaib.txt
+*DS_Store*
+/test_*
+*egg-info
+.yarn
+runs
+node_modules
+**/images/*.png
+**/images/*.jpg
+*/config.yaml
+*/mcp.json
+*/.tools.json
+**/test_output
+
+# Copy from vuejs
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+.gradio
+.superset
+!.vscode/extensions.json
+!.dockerignore
